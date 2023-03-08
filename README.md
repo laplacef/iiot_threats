@@ -193,8 +193,8 @@ the economy and other sectors
 - Gartner, 3 Initial Steps to Address Unsecure Cyber-Physical Systems, 2021
 - BDO, Real Estate and Construction Monitor, 2017
 - RCG, Housing is Critical Infrastructure: Social and Economic Benefits of Building More Housing, 2021
-- ExecutiveN- 33 - 20** ,Governor Newsom, 2020
-- McKinseyCompany** , How COVID-19 has pushed companies over the technology tipping point and transformed business forever, 2020
+- ExecutiveN- 33 - 20 ,Governor Newsom, 2020
+- McKinseyCompany , How COVID-19 has pushed companies over the technology tipping point and transformed business forever, 2020
 - FBI, Internet Crime Report, 2021
 - NIST, Best Practices in Cyber Supply Chain Risk Management
 - Propmodo, A New, Turbulent Era for Real Estate Supply Chains, 2022
